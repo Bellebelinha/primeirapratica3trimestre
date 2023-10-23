@@ -35,4 +35,10 @@
 }
 #resultado{
     background-color:deeppink;
+    width: 207px;
+    height:30px;
+    margin: 5px;
+    color: aliceblue;
+    text-align: right;
+    padding: 5px;
 }
